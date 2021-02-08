@@ -56,5 +56,6 @@ Then checkout the "packages" branch and merge your version into it. result:
 # Changelog
 
     2021
-        init repo
+        - Adds version 2.5.2 
+        - init repo
 
